@@ -8,7 +8,7 @@
     padding-right: 150px;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 0px solid black;
     border-collapse: collapse;
 }
 .text-header{
@@ -44,4 +44,27 @@ table, th, td {
 .date-picker{
     width:200px;
     height:25px;
+}
+.table-raw3{
+    background-color:  rgb(224, 222, 222);
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 375px;
+}
+.text-raw3{
+    color: rgb(162, 43, 43);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 340px;
+}
+.radio-buttons-table{
+    background-color:  rgb(224, 222, 222);;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 210px;
 }
