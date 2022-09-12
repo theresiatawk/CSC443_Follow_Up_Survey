@@ -18,20 +18,30 @@ table, th, td {
     text-align: center;
 }
 .table-mini-header{
-    background-color: rgb(198, 191, 191);
+    background-color: rgb(224, 222, 222);
     margin-right: auto;
     margin-left: auto;
     padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 57px;
-    padding-right: 57px;
+    padding-left: 100px;
+    padding-right: 170px;
 }
 .text-mini-header{
     color: rgb(162, 43, 43);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:15px;
+    font-size:10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
 }
-.raw-center{
-    text-align: start;
-    vertical-align: middle;
+.table-data{
+    background-color: rgb(224, 222, 222);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.date-picker{
+    width:200px;
+    height:25px;
 }
