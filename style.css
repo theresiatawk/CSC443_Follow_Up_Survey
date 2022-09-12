@@ -1,0 +1,37 @@
+.table-header{
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.text-header{
+    color: rgb(162, 43, 43);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    text-align: center;
+}
+.table-mini-header{
+    background-color: rgb(198, 191, 191);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 57px;
+    padding-right: 57px;
+}
+.text-mini-header{
+    color: rgb(162, 43, 43);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+}
+.raw-center{
+    text-align: start;
+    vertical-align: middle;
+}
