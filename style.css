@@ -52,6 +52,13 @@ table, th, td {
     padding-left: 5px;
     padding-right: 375px;
 }
+.table-raw4{
+    background-color:  rgb(224, 222, 222);
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 375px;
+}
 .text-raw3{
     color: rgb(162, 43, 43);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -61,10 +68,26 @@ table, th, td {
     padding-left: 5px;
     padding-right: 340px;
 }
-.radio-buttons-table{
+.text-raw4{
+    color: rgb(162, 43, 43);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 367px;
+}
+.radio-buttons-table3{
     background-color:  rgb(224, 222, 222);;
     margin-right: auto;
     margin-left: auto;
     padding-left: 5px;
     padding-right: 210px;
+}
+.radio-buttons-table4{
+    background-color:  rgb(224, 222, 222);;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 5px;
+    padding-right: 256px;
 }
