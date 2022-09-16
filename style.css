@@ -4,6 +4,8 @@
 .main-div{
     width: 600px;
     margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .first-div{
     background-color: white;
@@ -22,7 +24,7 @@
 }
 .column-layout{
     padding-top: 10px;
-    padding-left: 20px;
+    padding-left: 30px;
     padding-bottom: 30px;
 }
 .text{
@@ -39,133 +41,24 @@
     padding-top: 3px;
     padding-bottom: 3px;
 }
-/* .table-header{
-    background-color: white;
-    margin-right: auto;
-    margin-left: auto;
-    
-    padding-top: 11px;
-    padding-bottom: 11px;
-    padding-left: 70px;
-    padding-right: 70px;
-} */
-/* table, th, td {
-    border: 0px solid black;
-    border-collapse: collapse;
-} */
-/* .text-header{
-    color: rgb(137, 49, 49);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size:30px;
-    text-align: center;
-}*/
-/* .table-mini-header{
-    background-color: rgb(224, 223, 223);
-    margin-right: auto;
-    margin-left: auto;
-
-    /* padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 43px; */
-/* }  */
-/*
-.table-data{
-    background-color: rgb(224, 222, 222);
-    margin-right: auto;
-    margin-left: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}*/
 .box{
     width:250px;
     height:25px;
 }
-/*
-.table-raw3{
-    background-color:  rgb(224, 222, 222);
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 5px;
-    padding-right: 375px;
+.button {
+    border: none;
+    background-color: rgb(59, 58, 58);
+    background-image: linear-gradient(to right, #474545 0%, #83807f 51%, #474545 100%);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    height: 30px;
+    width: 130px;
 }
-.table-raw4{
-    background-color:  rgb(224, 222, 222);
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 5px;
-    padding-right: 375px;
-}
-.text-raw3{
-    color: rgb(162, 43, 43);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
+.button-layout{
     padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 340px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 30px;
 }
-.text-raw4{
-    color: rgb(162, 43, 43);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 367px;
-}
-.radio-buttons-table3{
-    background-color:  rgb(224, 222, 222);;
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 5px;
-    padding-right: 210px;
-}
-.text-raw5{
-    color: rgb(162, 43, 43);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 339px;
-}
-.radio-buttons-table4{
-    background-color:  rgb(224, 222, 222);;
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 5px;
-    padding-right: 256px;
-}
-.radio-buttons-table6{
-    background-color:  rgb(224, 222, 222);;
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 5px;
-    padding-right: 156px;
-}
-.text-raw6{
-    color: rgb(162, 43, 43);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 287px;
-}
-.text-raw8{
-    color: rgb(162, 43, 43);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    padding-right: 496px;
-}
-.text-area{
-    color: rgb(116, 114, 114);
-    font-family:'Arial Narrow', Arial, sans-serif;
-    font-size:10px;
-    margin-right: auto;
-    margin-left: auto;
-} */
