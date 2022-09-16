@@ -2,15 +2,11 @@
     background-color:rgb(177, 177, 177);
 }
 .main-div{
-    width: 600px;
-    margin: auto;
+    width: 630px;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 30px;
     padding-bottom: 30px;
-}
-.first-div{
-    background-color: white;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
 }
 .header{
     text-align:center;
@@ -18,8 +14,11 @@
     color: rgb(137, 49, 49);
     padding-top: 25px;
     padding-bottom: 25px;
+    background-color: white;
+    margin-bottom: 0px;
+
 }
-.second-div{
+.table-div{
     background-color: rgb(224, 223, 223);
 }
 .column-layout{
@@ -58,7 +57,7 @@
 }
 .button-layout{
     padding-top: 10px;
-    padding-left: 240px;
-    padding-right: 240px;
+    padding-left: 250px;
+    padding-right: 250px;
     padding-bottom: 30px;
 }
