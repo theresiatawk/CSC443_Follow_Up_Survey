@@ -4,30 +4,47 @@
     <title>Follow Up Survey</title>
     <link rel = stylesheet href="style.css"></link>
 </head>
-<body>
-    <table class = "table-header">
+<body class="body-background">
+    <!-- <table class = "table-header" width="60%" height="100%">
         <tr>
             <th class="text-header table-header">Follow Up Survey</th>
         </tr>
-    </table>
-    <table class = table-mini-header>
-        <tr>
-            <td class=" table-mini-header text-mini-header">When did you use our service?</td>
-            <td class="table-mini-header text-mini-header">Name of product or sevice</td>
-        </tr>
-        <tr>
-            <td class=" table-data text-mini-header">
-                <input type="date" class = "date-picker">
-            </td>
-            <td class="table-data text-mini-header">
-                <input class = "date-picker">
-            </td>
-        </tr>
-        <tr>
-            <td class=" table-data text-mini-header"></td>
-        </tr>
-    </table>
-    <table class = table-raw3>
+    </table> -->
+    <div class = "main-div">
+        <div class = "first-div">
+            <h1 class = "header">Follow Up Survey</h1>
+        </div>
+        <div class = "second-div">
+            <table>
+                <tr>
+                    <td class=" column-layout text">When did you use our service?</td>
+                    <td class="column-layout text">Name of product or service</td>
+                </tr>
+                <tr>
+                    <td class=" column-layout">
+                        <input type="date" class = "box">
+                    </td>
+                    <td class="column-layout">
+                        <input class = "box">
+                    </td>
+                </tr>
+                <tr>
+                    <td class=" column-layout text" colspan="2">Overall, how satisfied are you with the product or service?</td>
+                </tr>
+                <tr>
+                    <td class="column-layout radio-btns-txt">
+                        <input type="radio" name="satisfaction">
+                        <label>Very satisfied</label>
+                    </td>
+                    <td class="radio-buttons-table3 radio-btns-txt">
+                        <input type="radio" name="satisfaction">
+                        <label>Satisfied</label>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <!-- <table class = table-raw3>
         <tr>
             <td class=" table-raw3 text-raw3">Overall, how satisfied are you with the product or service?</td>
         </tr>
@@ -175,9 +192,8 @@
             <td class=" table-raw5 text-raw8">Additional comments:</td>
         </tr>
         <tr>
-            <textarea class=" table-raw5 text-raw8">Type Here...</textarea>
-        </tr>
-    </table>
-    
+            <td><textarea class="text-area" rows="8" cols="80">Type here...</textarea></td>
+        </tr>-->
+    </table> -->
 </body>
 </html>
