@@ -36,6 +36,7 @@
     color: rgb(137, 49, 49);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:12px;
+    padding-top: 3px;
     padding-bottom: 3px;
 }
 /* .table-header{
