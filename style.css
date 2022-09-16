@@ -5,8 +5,8 @@
     width: 630px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .header{
     text-align:center;
@@ -60,4 +60,9 @@
     padding-left: 250px;
     padding-right: 250px;
     padding-bottom: 30px;
+}
+.text-area{
+    width: 80%;
+    margin: auto;
+    padding-left: 30px;
 }
